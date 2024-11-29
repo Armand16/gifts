@@ -10,10 +10,11 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"svelte.svelte-vscode"
+				"svelte.svelte-vscode",
+				"bradlc.vscode-tailwindcss"
 			]
 		}
-	},
+	}
 	// "forwardPorts": [5173]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
